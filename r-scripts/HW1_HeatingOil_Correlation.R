@@ -1,13 +1,16 @@
+  
 # Load necessary packages
 library(readr)
+library(officer)
 
 # Read the dataset 
 data <- read.csv("~/Desktop/Desktop - Dev’s MacBook Air - 1/Fin -365/Homework #1 - DataSet Heating Oil.csv")
 
 # View the first few rows
 head(data)
+
 # Calculate the mean number of occupants
-mean_occupants <- mean(data$Occupants, na.rm = TRUE)
+mean_occupants <- mean(data$Num_Occupants, na.rm = TRUE)
 print(paste("Mean number of occupants:", mean_occupants))
 
 # Show the 385th row of data

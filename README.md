@@ -43,7 +43,7 @@ Personal projects:
 
 Final project (Dubai short-term rental market):
 
-- `Dubai_STR_ROI_Rmd_Report.R`, `Dubai_STR_ROI_Analysis.R`, `Dubai_STR_ROI_Final_v1/v2.R` — ROI analysis by bedrooms, neighborhood, occupancy
+- `Dubai_STR_ROI_Rmd_Report.R`, `Dubai_STR_ROI_Analysis.R`, `Dubai_STR_ROI_Final_v1.R` — ROI analysis by bedrooms, neighborhood, occupancy
 - `Dubai_Airbnb_Occupancy_Analysis.R` — data cleaning and occupancy-rate analysis
 
 Homework and exercises:
@@ -56,4 +56,4 @@ Homework and exercises:
 - `KMeans_Clustering_Handshakes.R` — k-means clustering exercise
 - `Linear_Regression_CoffeeSales.R` — sales regression with predictions
 
-Files suffixed `_v2`/`_v3` are near-duplicate earlier versions kept for reference.
+Notebook files suffixed `_v2` are alternate versions of the same assignment, kept for reference.
