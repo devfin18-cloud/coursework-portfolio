@@ -51,6 +51,3 @@ Modeling exercises:
 
 Files suffixed `_v2` are alternate versions of the same analysis, kept for reference.
 
-## `models/` — Financial Models (Excel)
-
-- `Gurdev_AAPL_Financial_Model.xlsx` — full Apple valuation model: assumptions-driven 3-statement projections (FY2026-30), Gordon-growth DCF with WACC×terminal-growth sensitivity grid, mega-cap comps (MSFT/GOOGL/NVDA/META), and earnings review. Live formulas throughout; edit the blue cells on the Assumptions tab and everything recalculates.
